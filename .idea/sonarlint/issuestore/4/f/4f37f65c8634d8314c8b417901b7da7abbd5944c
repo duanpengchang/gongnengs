@@ -1,0 +1,11 @@
+
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”Í³8úî¿êÖ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(É°íÔÿÿÿÿÿ8úî¿êÖ.
+r
+java:S1104"UMake ossClient a static final constant or non-public and provide accessors if needed.(şäêŒ8úî¿êÖ.
+L
+java:S1444"/Make this "public static ossClient" field final(şäêŒ8úî¿êÖ.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©ºá¦ùÿÿÿÿ8úî¿êÖ.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£‰ëÛúÿÿÿÿ8úî¿êÖ.
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Şµ¤š8™òåêÖ.

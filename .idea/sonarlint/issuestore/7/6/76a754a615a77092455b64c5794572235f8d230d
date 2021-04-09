@@ -1,0 +1,14 @@
+
+]	java:S1252"<This block of commented-out lines of code should be removed.(ıä¢ûÿÿÿÿ8™ªØéÖ.
+H
+java:S1172"+Remove this unused method parameter "args".(¿Ñ½ü8ˆ ›êÖ.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Ş”ù¯8™ªØéÖ.
+;
+java:S2119H"Save and re-use this "Random".(¸Í×8™ªØéÖ.
+n
+java:S1192#"LDefine a constant instead of duplicating this literal "cn-hangzhou" 3 times.(À†Ãùÿÿÿÿ8™ªØéÖ.
+<
+java:S2131J"Use "Integer.toString" instead.(Ùõíµ8™ªØéÖ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(øÒèÏıÿÿÿÿ8ˆ ›êÖ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¡ŒÊ•üÿÿÿÿ8™ªØéÖ.

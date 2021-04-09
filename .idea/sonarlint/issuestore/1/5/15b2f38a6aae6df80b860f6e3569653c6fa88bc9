@@ -1,0 +1,22 @@
+
+h	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(•û…öúÿÿÿÿ8§½öêÖ.
+;
+java:S2119‡"Save and re-use this "Random".(¼İÅf8§½öêÖ.
+X
+java:S1143Á"5Remove this return statement from this finally block.(Ö§”Óşÿÿÿÿ8§½öêÖ.
+h
+java:S3027¯"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(Ù—£©8§½öêÖ.
+K	java:S108´")Either remove or fill this block of code.(¨Ú¬°ûÿÿÿÿ8§½öêÖ.
+{
+java:S1488}"YImmediately return this expression instead of assigning it to the temporary variable "s".(ÂÎ®üşÿÿÿÿ8§½öêÖ.
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ùçÚÑøÿÿÿÿ8§½öêÖ.
+s	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯€Óêşÿÿÿÿ8§½öêÖ.
+l
+java:S3027e"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(åèÎùÿÿÿÿ8§½öêÖ.
+m
+java:S3027†"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(åèÎùÿÿÿÿ8§½öêÖ.
+g	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(·ıó¨üÿÿÿÿ8§½öêÖ.
+g	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ôê—‚øÿÿÿÿ8§½öêÖ.
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Òôæ«úÿÿÿÿ8§½öêÖ.
+L
+java:S1125´")Remove the literal "false" boolean value.(¨Ú¬°ûÿÿÿÿ8§½öêÖ.

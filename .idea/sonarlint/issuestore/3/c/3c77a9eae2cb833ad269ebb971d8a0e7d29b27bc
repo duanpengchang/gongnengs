@@ -1,0 +1,39 @@
+
+b	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸıÕp
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(Šğ˜ÿÿÿÿÿ
+>
+java:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+h	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±°Ïµÿÿÿÿÿ
+i	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¦•úÿÿÿÿ
+?
+java:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O	java:S106Ç"9Replace this use of System.out or System.err by a logger.(œ„Â
+F
+java:S5411ˆ"*Use the primitive boolean expression here.(ğ£‘×şÿÿÿÿ
+O	java:S106ó"9Replace this use of System.out or System.err by a logger.(îóï
+c	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü÷şœ
+>
+java:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+u
+java:S1488°"^Immediately return this expression instead of assigning it to the temporary variable "format".(…Ï­ò
+>
+java:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+A
+java:S5411â"*Use the primitive boolean expression here.(æø÷ş
+c	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÎÂü
+h	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ññ…×ÿÿÿÿÿ
+h	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ğ©–ÿÿÿÿÿ
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(îóï
+O	java:S106½"9Replace this use of System.out or System.err by a logger.(îóï
+O	java:S106×"9Replace this use of System.out or System.err by a logger.(îóï
+i	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÌ¾Ùøÿÿÿÿ
